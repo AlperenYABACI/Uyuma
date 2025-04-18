@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#FF5722" /> <!-- Arka plan rengi -->
+    <corners android:radius="20dp" /> <!-- Düğmenin köşe yarıçapı -->
+</shape>
